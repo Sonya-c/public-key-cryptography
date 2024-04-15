@@ -14,8 +14,8 @@ Propiedades
 
 ## Temas  
 
-- [ ] Esquema Trapdoor.  
-- [ ] Esquema Trapdoor RSA.  
+- [x] Esquema Trapdoor.  
+  - [x] Esquema Trapdoor RSA.  
 - [ ] Esquema de cifrado de llava pública (RSA OAEP).  
 - [ ] Protocolo de intercambio de llaves Diffie-Hellman.  
   - [ ] Problema del logaritmo discreto.  
