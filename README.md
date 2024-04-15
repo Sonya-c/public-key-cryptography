@@ -1,7 +1,15 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Criptografía de llave pública
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+- [ ] Esquema Trapdoor.  
+- [ ] Esquema Trapdoor RSA.  
+- [ ] Esquema de cifrado de llava pública (RSA OAEP).  
+- [ ] Protocolo de intercambio de llaves Diffie-Hellman.  
+  - [ ] Problema del logaritmo discreto.  
+  - [ ] Algoritmos genéricos.  
+  - [ ] Problema Diffie-Hellaman Computacional.  
+- [ ] Esquema ElGamal.  
+- [ ] Curvas Elípticas.  
+  - [ ] Sobre $\mathbf{R}$.  
+  - [ ] Sobre $\mathbf{F}_p$.  
+  - [ ] Curva $P256$.
+  - [ ] Diffi-Hellman Sobre $P256$.  
