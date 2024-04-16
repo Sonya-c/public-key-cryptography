@@ -17,14 +17,17 @@ Propiedades
 - [ ] Esquema Trapdoor.  
   - [x] Esquema Trapdoor RSA.  
 - [ ] Esquema de cifrado de llava pública (RSA OAEP).  
-- [ ] Protocolo de intercambio de llaves Diffie-Hellman.  
+
+- Diffie-Hellman.  
+  - [ ] Protocolo de intercambio de llaves
   - [ ] Problema del logaritmo discreto.  
     - [x] Búsqeda exhaustiva.
     - [x] Paso de bebe, paso de gigante.
     - [ ] Pllard's Rho.  
     - [ ] Pohlig-Hellman.  
   - [ ] Problema Diffie-Hellaman Computacional.  
-- [ ] Esquema ElGamal.  
+  - [x] Esquema ElGamal.  
+
 - [ ] Curvas Elípticas.  
   - [ ] Sobre $\mathbf{R}$.  
   - [ ] Sobre $\mathbf{F}_p$.  
