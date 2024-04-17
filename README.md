@@ -14,8 +14,7 @@ Propiedades
 
 ## Temas  
 
-- [ ] Esquema Trapdoor.  
-  - [x] Esquema Trapdoor RSA.  
+- [x] Esquema Trapdoor RSA.  
 - [ ] Esquema de cifrado de llava pública (RSA OAEP).  
 
 - [ ] Diffie-Hellman.  
@@ -24,19 +23,12 @@ Propiedades
     - [x] Búsqeda exhaustiva.
     - [x] Paso de bebe, paso de gigante.
     - [ ] Pollard's Rho.  
-    - [ ] Pohlig-Hellman.  
+    <!-- - [ ] Pohlig-Hellman.   -->
   - [ ] Problema Diffie-Hellaman Computacional.  
   - [x] Esquema ElGamal.  
 
 - [ ] Curvas Elípticas.  
   - [x] Sobre $\mathbf{F}_p$.  
-  - [ ] Curva $P256$.
+  - [x] Curva $P256$.
   - [ ] Diffi-Hellman Sobre $P256$.  
-
-## Historia  
-
-Nace como una idea a mitada de los 70s. En 1978, Diffie.Hellaman crear el protocolo de intercambio de llaves y con el nacenel problema de logratimos discreto y diffie-hellamn computacional sobre un grupo $F^n_q$.  
-
-```none
-Ya me dio flojera pasar el resto de notas. En resumen: mucha genete loca, creando criptosistemas y esquemas locos y problemas matematicos aun mas locos. 
-```
+  - [ ] ElGamal con curvas.
