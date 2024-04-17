@@ -31,4 +31,4 @@ Propiedades
   - [x] Sobre $\mathbf{F}_p$.  
   - [x] Curva $P256$.
   - [ ] Diffi-Hellman Sobre $P256$.  
-  - [ ] ElGamal con curvas.
+  - [x] ElGamal con curvas.
