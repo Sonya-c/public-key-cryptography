@@ -18,19 +18,18 @@ Propiedades
   - [x] Esquema Trapdoor RSA.  
 - [ ] Esquema de cifrado de llava pública (RSA OAEP).  
 
-- Diffie-Hellman.  
+- [ ] Diffie-Hellman.  
   - [ ] Protocolo de intercambio de llaves
   - [ ] Problema del logaritmo discreto.  
     - [x] Búsqeda exhaustiva.
     - [x] Paso de bebe, paso de gigante.
-    - [ ] Pllard's Rho.  
+    - [ ] Pollard's Rho.  
     - [ ] Pohlig-Hellman.  
   - [ ] Problema Diffie-Hellaman Computacional.  
   - [x] Esquema ElGamal.  
 
 - [ ] Curvas Elípticas.  
-  - [ ] Sobre $\mathbf{R}$.  
-  - [ ] Sobre $\mathbf{F}_p$.  
+  - [x] Sobre $\mathbf{F}_p$.  
   - [ ] Curva $P256$.
   - [ ] Diffi-Hellman Sobre $P256$.  
 
