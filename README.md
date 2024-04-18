@@ -14,20 +14,20 @@ Propiedades
 
 ## Temas  
 
-- [ ] RSA 
-    - [x] Esquema Trapdoor RSA.  
-    - [ ] Esquema de cifrado de llava pública (RSA OAEP).  
+- [ ] RSA
+  - [x] Esquema Trapdoor RSA.  
+  - [ ] Esquema de cifrado de llava pública (RSA OAEP).  
 - [ ] Diffie-Hellman.  
-  - [ ] Protocolo de intercambio de llaves
+  - [x] Protocolo de intercambio de llaves
   - [ ] Problema del logaritmo discreto.  
     - [x] Búsqeda exhaustiva.
     - [x] Paso de bebe, paso de gigante.
     - [ ] Pollard's Rho.  
     <!-- - [ ] Pohlig-Hellman.   -->
-  - [ ] Problema Diffie-Hellaman Computacional.  
+  <!-- - [ ] Problema Diffie-Hellaman Computacional.   -->
   - [x] Esquema ElGamal.  
-- [ ] Curvas Elípticas.  
+- [x] Curvas Elípticas.  
   - [x] Sobre $\mathbf{F}_p$.  
   - [x] Curva $P256$.
-  - [ ] Diffi-Hellman Sobre $P256$.  
+  - [x] Diffi-Hellman Sobre $P256$.  
   - [x] ElGamal con curvas.
