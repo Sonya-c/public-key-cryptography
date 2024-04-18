@@ -14,9 +14,9 @@ Propiedades
 
 ## Temas  
 
-- [x] Esquema Trapdoor RSA.  
-- [ ] Esquema de cifrado de llava pública (RSA OAEP).  
-
+- [ ] RSA 
+    - [x] Esquema Trapdoor RSA.  
+    - [ ] Esquema de cifrado de llava pública (RSA OAEP).  
 - [ ] Diffie-Hellman.  
   - [ ] Protocolo de intercambio de llaves
   - [ ] Problema del logaritmo discreto.  
@@ -26,7 +26,6 @@ Propiedades
     <!-- - [ ] Pohlig-Hellman.   -->
   - [ ] Problema Diffie-Hellaman Computacional.  
   - [x] Esquema ElGamal.  
-
 - [ ] Curvas Elípticas.  
   - [x] Sobre $\mathbf{F}_p$.  
   - [x] Curva $P256$.
